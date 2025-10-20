@@ -7,6 +7,7 @@ I'm a machine learning engineer with a strong data science background (4 years p
 - **[Heisenberg](https://github.com/SamBroomy/heisenberg)**: Complete offline location enrichment tool, using the geonames database to backfill and enrich location data.
 - **[market-making](https://github.com/SamBroomy/market-making)**: System for ingesting live market data streams, replicating orderbooks locally, and distributing market data to message queues and time-series databases. Focused on engineering a market-making system from the ground up.
 - **[ZK Sudoku prover](https://github.com/SamBroomy/zk-sudoku-prover)**: Verifying the correctness of Sudoku puzzles without ever revealing the puzzle solution itself. A simple rust base implementation of a Zero Knowledge Prover based on graph colouring.
+- **[Typed Prompt](https://github.com/SamBroomy/typed-prompt)**: A simple type-safe, validated prompt management system for LLMs 
 
 
 ## Interests
