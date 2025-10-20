@@ -1,7 +1,3 @@
-# Sam Broomy
-
-Minimalist engineer, builder, and explorer.
-
 ## About
 
 I'm a machine learning engineer with a strong data science background (4 years professional ML, 7+ years Python). These days, I spend most of my time writing Rust. I've built several Rust projects focused on real systems, not just edge algorithms.
