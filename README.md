@@ -13,16 +13,13 @@ I'm a machine learning engineer with a strong data science background (4 years p
 
 ## Interests
 
+- Learning how to do things I dont currently know how to do.
 - Rust, async internals, atomics, locks, lower-level primitives
 - Compilers & systems programming
 - Building things from scratch
 - Swimming, running, netball, gaming
-- Learning deeply and broadly
+
 
 ## Looking for
 
-Ideally: a role where I write fast systems in Rust.
-
----
-
-Always trying to learn something new.
+Ideally, a role where I build fast systems in Rust.
