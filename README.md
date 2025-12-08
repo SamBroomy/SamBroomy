@@ -1,9 +1,10 @@
 ## About
 
-I'm a machine learning engineer with a strong data science background (4 years professional ML, 7+ years Python). These days, I spend most of my time writing Rust. I've built several Rust projects focused on real systems, not just edge algorithms.
+I'm a machine learning engineer with a strong data science background (4 years professional ML, 7+ years Python). These days, I spend most of my time writing Rust. I've built several Rust projects focused on real systems, and real problems.
 
 ## Highlights
 
+- **[is-it-slop](https://github.com/SamBroomy/is-it-slop)**: Detect AI generated slop, using ML, served in Rust using ONNX & a custom TFIDF vectorizer for blazingly fast model infrence.
 - **[Heisenberg](https://github.com/SamBroomy/heisenberg)**: Complete offline location enrichment tool, using the geonames database to backfill and enrich location data.
 - **[market-making](https://github.com/SamBroomy/market-making)**: System for ingesting live market data streams, replicating orderbooks locally, and distributing market data to message queues and time-series databases. Focused on engineering a market-making system from the ground up.
 - **[ZK Sudoku prover](https://github.com/SamBroomy/zk-sudoku-prover)**: Verifying the correctness of Sudoku puzzles without ever revealing the puzzle solution itself. A simple rust base implementation of a Zero Knowledge Prover based on graph colouring.
@@ -20,7 +21,7 @@ I'm a machine learning engineer with a strong data science background (4 years p
 
 ## Looking for
 
-Ideally: a role where I write and engineer in Rust.
+Ideally: a role where I write fast systems in Rust.
 
 ---
 
