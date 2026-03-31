@@ -1,6 +1,6 @@
 ## About
 
-I'm a machine learning engineer with a strong data science background (4 years professional ML, 7+ years Python). I enjoy writing Rust. I've built several Rust projects focused on understanding and building diffret types systems, from p2p blockchains to ML models trained in python and served in rust.
+I'm a machine learning engineer with a strong data science background (4 years professional ML, 7+ years Python). I enjoy writing Rust. I've built several Rust projects focused on understanding and building different types of systems, from p2p blockchains to ML models trained in python and served in rust.
 
 ## Highlights
 
